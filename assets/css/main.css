@@ -1,0 +1,15 @@
+body {
+    color: azure;
+    background-color: #19191a;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img#logo {
+    max-width: 44%;
+}
