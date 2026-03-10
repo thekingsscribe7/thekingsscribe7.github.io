@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: 
+Sitemap: https://thekings.scribe7.com/sitemap.xml
